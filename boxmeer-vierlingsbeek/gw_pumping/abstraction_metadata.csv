@@ -1,0 +1,23 @@
+Name,FilterNo,Alias,StartDateTime,XCoordinate,YCoordinate,XLine,YLine,SurfaceLevel,WellTopLevel,FilterTopLevel,FilterBottomLevel,WellBottomLevel,Status,Type,Comment,Site,Organization
+01-PP001,0,B46D0517,30-11-1981 00:00,191231.52,406381.47,,,13.41,13.41,4.11,-1.69,,Inactive,Vertical,,Boxmeer,Brabant Water
+01-PP002,0,B46D0518,30-11-1981 00:00,191171.96,406420.89,,,13.18,13.18,3.78,-2.02,,Inactive,Vertical,,Boxmeer,Brabant Water
+01-PP003,0,B46D0519,30-11-1981 00:00,191112.11,406460.02,,,13.21,13.21,3.81,-1.99,,Inactive,Vertical,,Boxmeer,Brabant Water
+01-PP004,0,B46D0520,30-11-1981 00:00,191052.93,406498.98,,,13.21,13.21,3.81,-1.99,,Inactive,Vertical,,Boxmeer,Brabant Water
+01-PP005,0,B46D0521,30-11-1981 00:00,190998.1,406535.07,,,13.28,13.28,3.88,-1.92,,Inactive,Vertical,,Boxmeer,Brabant Water
+01-PP006,0,B46D0330,12-12-1990 00:00,190935.42,406576.34,,,13.4,13.4,4.34,-2.9,,Inactive,Vertical,,Boxmeer,Brabant Water
+01-PPA,0,B46D0067,07-01-1944 00:00,190885,405890.0,,,13.7,13.7,5.7,0.699999999999999,,Abandoned,Vertical,,Boxmeer,Brabant Water
+01-PPV01,0,,01-02-1952 00:00,190885,405890.0,,,,13.7,,,,Abandoned,Vertical,Virtuele put,Boxmeer,Brabant Water
+15-PP001A,0,B46D0284,20-03-1987 00:00,194188.33,400776.88,,,18.92,18.92,1.92,-4.58,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP004A,0,B46D0285,25-03-1987 00:00,194415.2,400849.86,,,18.9,18.9,2.13,-8.4,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP005A,0,B46D0286,27-02-1987 00:00,194027.28,400720.41,,,19.03,19.03,2.13,-3.97,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP006A,0,B46D0287,27-02-1987 00:00,193947.69,400692.61,,,19.31,19.31,1.56,-5.69,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP007,0,B46D0272,15-10-1968 00:00,193870,400661.0,,,19.48,19.48,9.53,-7.02,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP007A,0,B46D1061,18-11-1996 00:00,193870,400661.0,,,19.5,0.0,-9.9,-26.57,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP008,0,B46D0273,15-10-1968 00:00,193776,400628.0,,,19.96,19.96,10.01,-6.54,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP009,0,B46D0274,27-07-1973 00:00,194093.79,400744.01,,,18.97,18.97,7.37,-6.86,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP010,0,B46D0275,27-07-1973 00:00,194436.79,400772.09,,,18.47,18.47,7.37,-10.63,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP011,0,B46D0276,27-07-1973 00:00,194461,400709.0,,,18.8,18.8,7.7,-10.3,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP013,0,B46D0278,18-12-1981 00:00,193680,400592.0,,,19.11,19.11,5.11,-9.29,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP014,0,B46D0279,18-12-1981 00:00,193580,400550.0,,,19.15,19.15,5.15,-10.35,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PP015,0,B46D0280,18-12-1981 00:00,193493,400526.0,,,19.42,19.42,5.42,-8.98,,Abandoned,Vertical,,Vierlingsbeek,Brabant Water
+15-PPV01,0,,01-01-1960 00:00,194188.33,400776.88,,,,18.374985410587698,,,,Abandoned,Vertical,Virtuele put,Vierlingsbeek,Brabant Water
